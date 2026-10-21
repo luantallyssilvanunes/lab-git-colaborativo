@@ -1,1 +1,1 @@
-function calcularFrete (valorPedido) { return valorPedido + 15.00; }
+function calcularFrete (valorPedido) { return valorPedido + 30.00; }
